@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "f4de9db670a92e7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "44a7442f5c476592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65c3d392d8450ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "交易/YTC的价格行为学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YTC的价格行为学"
+            }
+          },
+          {
+            "id": "ca44d59b0732d721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/工作/学习/设计文档/设计方案一.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "设计方案一"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02da0948a57603f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "91f6096fa084e886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68d04f72a9d5de56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b82d98661e110059",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cc9a3ef650e6d0e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "213c50a6917b5c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee2579c25c25222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bfae69f9d5c4627",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程/工作/学习/待提高.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "待提高 的反向链接列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "68d04f72a9d5de56",
+  "lastOpenFiles": [
+    "交易/裸 K 交易.md",
+    "交易/YTC的价格行为学.md",
+    "交易/K 线基础.md",
+    "交易/交易.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "交易/高级趋势技术分析/价格行为.md",
+    "交易/布鲁克斯《K线分析理论》.md",
+    "交易/高级趋势技术分析",
+    "编程/工作/学习/待提高.canvas",
+    "交易",
+    "编程/工作/需求导图.canvas",
+    "编程/工作/学习/业务系统学习.md",
+    "编程/工作/需求类别.md",
+    "编程/工作/总结.md",
+    "编程/工作/学习/图积累/实体模型图/ER 图.md",
+    "编程/工作/学习/图积累/实体模型图/模型图.md",
+    "编程/工作/学习/图积累/实体模型图/模型分层图.md",
+    "编程/工作/学习/待提高.md",
+    "编程/工作/学习/设计文档/设计方案一.md",
+    "编程/工作/学习/未命名.md",
+    "Excalidraw/Drawing 2025-01-24 17.16.41.excalidraw.md",
+    "Excalidraw",
+    "编程/工作/学习/图积累/用例图.md",
+    "编程/工作/学习/图积累/流程图.md",
+    "编程/工作/学习/图积累/领域模型.md",
+    "record/编程/工作/学习/图积累/流程图.md",
+    "编程/工作/学习/图积累/系统边界.md",
+    "编程/工作/学习/图积累/实体模型图",
+    "编程/工作/学习/图积累/产品架构图.md",
+    "编程/工作/学习/图积累/业务流程图.md",
+    "编程/工作/学习/设计文档",
+    "编程/工作/学习/图积累",
+    "编程/工作/学习",
+    "编程/工作",
+    "编程",
+    "record/编程/工作/学习/图积累/领域模型.md",
+    "record/编程/工作/学习/图积累/产品架构图.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"cd9245f64cfcf1f4","type":"text","text":"如何学习一个业务系统","x":-200,"y":-60,"width":250,"height":60},
+		{"id":"ffc6c2cebc839de0","type":"text","text":"如何编写可靠的设计文档","x":-200,"y":-240,"width":250,"height":60},
+		{"id":"3b505b459f4fa012","type":"text","text":"待提高","x":-200,"y":-620,"width":250,"height":60},
+		{"id":"602b53954d3ad36a","type":"text","text":"输入","x":260,"y":-620,"width":250,"height":60},
+		{"id":"73e50813d8527ad8","type":"text","text":"输出","x":800,"y":-620,"width":250,"height":60},
+		{"id":"3abc6a9de4d6eae5","type":"text","text":"Mafka","x":-200,"y":300,"width":250,"height":60},
+		{"id":"268fb35d5994d13e","type":"text","text":"ES","x":-200,"y":480,"width":250,"height":60},
+		{"id":"8d35e0e78f7c4458","type":"text","text":"AIBot","x":-200,"y":120,"width":250,"height":60},
+		{"id":"337eee740616206f","type":"file","file":"编程/工作/学习/业务系统学习.md","x":250,"y":-55,"width":380,"height":50},
+		{"id":"b10eabf09acb66c5","type":"file","file":"编程/工作/学习/设计文档/设计方案一.md","x":250,"y":-235,"width":340,"height":50}
+	],
+	"edges":[
+		{"id":"2f9f00e2e97db8cb","fromNode":"ffc6c2cebc839de0","fromSide":"right","toNode":"b10eabf09acb66c5","toSide":"left"},
+		{"id":"a1fd2cf9c6d33195","fromNode":"cd9245f64cfcf1f4","fromSide":"right","toNode":"337eee740616206f","toSide":"left"}
+	]
+}
