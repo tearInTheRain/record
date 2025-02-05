@@ -11,32 +11,15 @@
             "id": "65c3d392d8450ca2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "交易/YTC的价格行为学.md",
-                "mode": "source",
-                "source": false
+                "file": "交易/裸 K 交易.md"
               },
-              "icon": "lucide-file",
-              "title": "YTC的价格行为学"
-            }
-          },
-          {
-            "id": "ca44d59b0732d721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/工作/学习/设计文档/设计方案一.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "设计方案一"
+              "icon": "excalidraw-icon",
+              "title": "裸 K 交易"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "213c50a6917b5c68",
@@ -135,12 +119,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "68d04f72a9d5de56",
+  "active": "65c3d392d8450ca2",
   "lastOpenFiles": [
+    "编程/工作/学习/业务系统学习.md",
+    "编程/工作/学习/设计文档/设计方案一.md",
     "交易/裸 K 交易.md",
+    "交易/交易.md",
+    "编程/工作/需求导图.canvas",
     "交易/YTC的价格行为学.md",
     "交易/K 线基础.md",
-    "交易/交易.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "交易/高级趋势技术分析/价格行为.md",
@@ -148,15 +135,12 @@
     "交易/高级趋势技术分析",
     "编程/工作/学习/待提高.canvas",
     "交易",
-    "编程/工作/需求导图.canvas",
-    "编程/工作/学习/业务系统学习.md",
     "编程/工作/需求类别.md",
     "编程/工作/总结.md",
     "编程/工作/学习/图积累/实体模型图/ER 图.md",
     "编程/工作/学习/图积累/实体模型图/模型图.md",
     "编程/工作/学习/图积累/实体模型图/模型分层图.md",
     "编程/工作/学习/待提高.md",
-    "编程/工作/学习/设计文档/设计方案一.md",
     "编程/工作/学习/未命名.md",
     "Excalidraw/Drawing 2025-01-24 17.16.41.excalidraw.md",
     "Excalidraw",
